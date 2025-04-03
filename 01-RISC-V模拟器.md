@@ -89,4 +89,7 @@ PLCT lab 刘阳老师的实现项目。
 - [rvemu](https://github.com/ksco/rvemu)
 - [nano](https://github.com/ksco/nanoemu)
 
+eweOS 梓瑶老师使用shell实现的项目
+- [barv](https://github.com/ziyao233/barv)
+
 > **_NOTE:_**  题目框架为AI生成，内容由延迟低部分修改，如有疑问请联系延迟低。
