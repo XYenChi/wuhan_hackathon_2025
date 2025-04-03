@@ -84,4 +84,9 @@ end:
 - [QEMU RISC-V 模拟器](https://github.com/qemu/qemu)
 - [spike 模拟器](https://www.github.com/riscv-software-src/riscv-isa-sim)
 
+## **8.参考实现**
+PLCT lab 刘阳老师的实现项目。
+- [rvemu](https://github.com/ksco/rvemu)
+- [nano](https://github.com/ksco/nanoemu)
+
 > **_NOTE:_**  题目框架为AI生成，内容由延迟低部分修改，如有疑问请联系延迟低。
